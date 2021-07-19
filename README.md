@@ -1,1 +1,3 @@
-# Budget-Tracker
+instructions.md
+node_modules
+package-lock.json
